@@ -1,4 +1,6 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+Open data science course with quite refreshing starting lesson and instructions.
+
+https://dreafned.github.io/IODS-project/
