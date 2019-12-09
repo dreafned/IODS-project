@@ -11,7 +11,7 @@ keep <- c("Country", "Edu2.FM", "Labo.FM", "Life.Exp", "Edu.Exp", "GNI", "Mat.Mo
 # select the 'keep' columns
 human <- select(human, one_of(keep))
 
-)# print out a completeness indicator of the 'human' data
+# print out a completeness indicator of the 'human' data
 complete.cases(human)
 
 # print out the data along with a completeness indicator as the last column
